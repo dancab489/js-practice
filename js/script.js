@@ -1,4 +1,4 @@
-no = false;
+
 //boolean
 
 /*
@@ -6,6 +6,6 @@ no = false;
     here is another line
     and another one
 */
-const humanTime = {fullName:"Daniel Cabrera", favFood:"ribs?"};
+const humanTime = {fullName:"Daniel Cabrera", favFood:"ribs\?"};
 console.log(humanTime);
 
